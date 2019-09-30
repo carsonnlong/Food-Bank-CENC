@@ -36,6 +36,13 @@ added to the button in the index html file as well.*/
  *********************************************/
 
 .research {
-  display: inline-block;
-  width: 100%;
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+.audience {
+  display: block;
+  width: 50%;
+  margin: auto;
 }
