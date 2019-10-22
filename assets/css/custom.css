@@ -6,7 +6,7 @@
 /* If you want to add a background image to the home page banner instead of using a solid color.
 Just un comment the #banner rule below. */
 #banner {
-  background-image: url(../../unsplash/unsplash_1.jpg);
+  background-image: url(../../unsplash/unsplash_17.jpg);
   background-size: cover;
   color: rgba(255, 255, 255, 0.75);
   text-shadow: 1px 1px 15px #333;
@@ -21,12 +21,13 @@ Just un comment the #banner rule below. */
 You can call the class whatever you want, but in order for it to work, it needs to be
 added to the button in the index html file as well.*/
 #banner .button.redbtn {
-  background-color: rgba(251, 220, 156, 1);
+  background-color: rgba(252, 188, 128, 1);
   box-shadow: none;
 }
 
 #banner .button.redbtn:hover {
-  background-color: rgba(252, 188, 128, 1);
+  background-color: rgba(251, 220, 156, 1);
+
 }
 
 
@@ -34,6 +35,26 @@ added to the button in the index html file as well.*/
 /*********************************************
  Write your css customizations below
  *********************************************/
+/*
+ .post.style1 a {
+   color: rgba(80, 114, 86, 1);
+ }
+
+.content {
+  color: rgba (255, 255, 255, 1);
+  background: rgba(252, 188, 128, 1);
+}
+
+p.info{
+  color: rgba(252, 188, 128, 1);
+}
+
+button.alt, .post.style1 .button.alt {
+    background-color: rgba(255, 255, 255, 1);
+    box-shadow: inset 0 0 0 2px rgba(252, 188, 128, 1);
+    color: rgba(252, 188, 128, 1) !important;
+} */
+
 
 .italic {
   font-family: "brandon-grotesque", sans-serif;
