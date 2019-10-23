@@ -73,3 +73,11 @@ button.alt, .post.style1 .button.alt {
   width: 50%;
   margin: auto;
 }
+
+/* .post.style1 a {
+  color: #fbdd9c);
+} */
+
+a.button.alt{
+  color: #fbdd9c;
+}
